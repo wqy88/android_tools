@@ -1,0 +1,4 @@
+eg:
+$ sudo chmod a+x flashimg.sh
+$ ./flashimg.sh boot-ver.img
+$ ./flashimg.sh recovery-ver.img
