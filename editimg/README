@@ -1,0 +1,7 @@
+eg:
+$ sudo chmod a+x *.sh
+$ boot-unpack.sh boot-ver.img
+$ recovery-unpack.sh recovery-ver.img
+
+$ boot-repack.sh boot-ver.img
+$ recovery-repack.sh recovery-ver.img
